@@ -11,7 +11,9 @@ public class twoexpressions
 		System.out.println( "The addition is " +add);
 		return add;
 	}
+	
 	public int sub1(int c, int d)
+	
 	{
 		int sub= c-d;
 		System.out.println("The Subtraction is "+sub);
@@ -20,6 +22,7 @@ public class twoexpressions
 	}
 
 	public int mul1(int a1, int b1)
+	
 	{ 
 		int mul= a1*b1;
 		System.out.println("The multiplication is " +mul);
